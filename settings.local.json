@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.alderneyweek.com)",
+      "WebFetch(domain:blondehedgehog.com)",
+      "Bash(node -e ' *)",
+      "WebFetch(domain:www.jacksalderney.com)"
+    ]
+  }
+}
